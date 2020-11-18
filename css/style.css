@@ -390,7 +390,7 @@ input,textarea,select{
     min-height: 100vh;
     display: -ms-flexbox;
     display: flex;
-    background-image: url("../images/sona/c.JPG");
+    background-image: url("../images/sona/c.jpg");
     background-position:center;
     background-size: cover;
     background-attachment:contain;   
